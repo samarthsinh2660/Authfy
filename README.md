@@ -30,11 +30,11 @@ Authify is a robust authentication platform that integrates **local authenticati
 
 > - HOME PAGE ![image](https://github.com/user-attachments/assets/699f8a42-44f2-4885-af73-030975f5c184)
 
-> -![image](https://github.com/user-attachments/assets/3aa648de-da78-4fa9-9a75-5cc83d8306dc)
+> - LOGIN ![image](https://github.com/user-attachments/assets/3aa648de-da78-4fa9-9a75-5cc83d8306dc)
 
-> -![image](https://github.com/user-attachments/assets/70dac015-56fa-444a-9ff3-f13027a05e3d)
+> - REGISTER ![image](https://github.com/user-attachments/assets/70dac015-56fa-444a-9ff3-f13027a05e3d)
 
-> - ![image](https://github.com/user-attachments/assets/79a1a2a4-a7d3-4ebc-aa6a-0f32d8240010)
+> - SECRET ![image](https://github.com/user-attachments/assets/79a1a2a4-a7d3-4ebc-aa6a-0f32d8240010)
 
 
 ---
