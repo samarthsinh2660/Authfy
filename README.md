@@ -28,8 +28,7 @@ Authify is a robust authentication platform that integrates **local authenticati
 
 ## Screenshots
 
-> Add screenshots of your app here. Include images of:
-> - ![image](https://github.com/user-attachments/assets/699f8a42-44f2-4885-af73-030975f5c184)
+> - HOME PAGE ![image](https://github.com/user-attachments/assets/699f8a42-44f2-4885-af73-030975f5c184)
 
 > -![image](https://github.com/user-attachments/assets/3aa648de-da78-4fa9-9a75-5cc83d8306dc)
 
@@ -46,17 +45,21 @@ Authify is a robust authentication platform that integrates **local authenticati
    ```bash
    git clone https://github.com/your-username/authify.git
    cd authify
-2. npm install
+2. ```bash
+    npm install
 3. Create a .env file in the root directory
+    ```bash
     PG_USER=<your-database-user>
-PG_HOST=<your-database-host>
-PG_DATABASE=<your-database-name>
-PG_PASSWORD=<your-database-password>
-PG_PORT=<your-database-port>
-SESSION_SECRET=<your-session-secret>
-GOOGLE_CLIENT_ID=<your-google-client-id>
-GOOGLE_CLIENT_SECRET=<your-google-client-secret>
-4. nodemon index.js
-5. http://localhost:3000
+    PG_HOST=<your-database-host>
+   PG_DATABASE=<your-database-name>
+   PG_PASSWORD=<your-database-password>
+   PG_PORT=<your-database-port>
+   SESSION_SECRET=<your-session-secret>
+   GOOGLE_CLIENT_ID=<your-google-client-id>
+   GOOGLE_CLIENT_SECRET=<your-google-client-secret>
+5.  ```bash
+    nodemon index.js
+6.  ```bash
+    http://localhost:3000
 
 
